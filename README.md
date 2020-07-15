@@ -1,4 +1,4 @@
-# ickabog
+# The Ickabog
 A script to get J.K. Rowling's new story, the Ickabog.
 
 # Usage
@@ -6,14 +6,18 @@ A script to get J.K. Rowling's new story, the Ickabog.
 
 See `_bat.sh` for details.
 
+All `xhtml` files can be imported into [Sigil]<https://github.com/Sigil-Ebook/Sigil>, the best ebook editor app. You can make a nice EPUB ebook in minutes.
+
 # One More Thing
 
 Use `batch_download.sh` and `batch_download_cn.sh` to get all chapters from theickabog.com.
 
 As of July 11, all 64 English chapters were available online.
 
-As of July 13, the first 40 Chinese chapters were available.
+As of July 15, the first 46 Chinese chapters were available.
 
 # Disclaimer
 
 This repository contains no contents of J.K. Rowling's new book.
+
+The ICKABOG and all other related trade marks, characters, names, and indicia are TM and © J.K. Rowling.
