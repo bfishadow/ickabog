@@ -14,7 +14,7 @@ Use `batch_download.sh` and `batch_download_cn.sh` to get all chapters from thei
 
 As of July 11, all 64 English chapters were available online.
 
-As of July 15, the first 46 Chinese chapters were available.
+As of July 17, the first 48 Chinese chapters were available.
 
 # Disclaimer
 
