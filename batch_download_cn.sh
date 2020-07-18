@@ -46,3 +46,5 @@ curl "https://www.theickabog.com/ch/%e4%bc%af%e7%89%b9%e5%9c%a8%e9%85%92%e9%a6%9
 curl "https://www.theickabog.com/ch/%e7%bd%97%e5%be%b7%e9%87%8c%e5%85%8b%c2%b7%e7%bd%97%e5%a5%87%e7%9a%84%e6%95%85%e4%ba%8b/" -o "cn 46.html"
 curl "https://www.theickabog.com/ch/%e7%ac%ac%e5%9b%9b%e5%8d%81%e4%b8%83%e7%ab%a0-%e5%9c%a8%e5%9c%b0%e7%89%a2%e9%87%8c/" -o "cn 47.html"
 curl "https://www.theickabog.com/ch/%e4%bc%af%e7%89%b9%e5%92%8c%e9%bb%9b%e8%a5%bf%e9%87%8d%e9%80%a2/" -o "cn 48.html"
+curl "https://www.theickabog.com/ch/%e9%80%83%e7%a6%bb%e7%94%98%e7%89%b9%e5%a4%a7%e5%a8%98%e5%ae%b6/" -o "cn 49.html"
+curl "https://www.theickabog.com/ch/%e5%86%ac%e5%a4%a9%e7%9a%84%e6%97%85%e7%a8%8b/" -o "cn 50.html"
