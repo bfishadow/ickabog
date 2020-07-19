@@ -10,11 +10,11 @@ The Ickabog story are available in multiple languages. This script has been test
 
 See `_bat.sh` for details.
 
-All `xhtml` files can be imported into [Sigil<https://github.com/Sigil-Ebook/Sigil>], the best ebook editor app.
+All `xhtml` files can be imported into Sigil (<https://github.com/Sigil-Ebook/Sigil>), the best ebook editor app.
 
 # One More Thing
 
-Use `batch_download.sh` and `batch_download_cn.sh` to get all chapters from theickabog.com.
+Use `batch_download.sh` and `batch_download_cn.sh` to get all chapters from <https://theickabog.com>.
 
 As of July 11, all 64 English chapters were available online.
 
