@@ -14,16 +14,14 @@ def getBetween(str, str1, str2):
     strOutput = str[str.find(str1)+len(str1):str.find(str2)]
     return strOutput
 
-#strFilename = "Chapter 1 King Fred the Fearless.html"
-#print ("正在处理文件: ", strFilename)
-
 with open(strFilename, 'rt') as objFile:
     strHTML = objFile.read()
 
 strContentHTML = getBetween(strHTML, '<div class="col">', '<div class="row my-75">')
 strContentHTML = strContentHTML.replace('<h1', '<h2')
 strContentHTML = strContentHTML.replace('</h1>', '</h2>')
-strContentHTML = strContentHTML.replace('<h3>', '<p align="center"><img alt="Crown" src="../Images/Crown.png"/></p><p>')
+#strContentHTML = strContentHTML.replace('<h3>', '<p align="center"><img alt="Crown" src="../Images/Crown.png"/></p><p>')
+strContentHTML = strContentHTML.replace('<h3>', '<p>')
 strContentHTML = strContentHTML.replace('</h3>', '</p>')
 
 print('<?xml version="1.0" encoding="utf-8"?>')
