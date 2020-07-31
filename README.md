@@ -18,7 +18,9 @@ Use `batch_download.sh` and `batch_download_cn.sh` to get all chapters from <htt
 
 As of July 11, all 64 English chapters were available online.
 
-As of July 30, the first 63 Chinese chapters were available.
+As of July 31, all 64 Chinese chapters were available.
+
+**The story will be removed on August 5.** Please be quick.
 
 # Disclaimer
 
